@@ -1,16 +1,8 @@
-# insta_chat
+# Insta Chat
 
-A new Flutter application.
+A chat app made in flutter and firebase
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/54039581/130516811-7b932c9d-4332-424b-90d6-c7e64692d760.png)
+![image](https://user-images.githubusercontent.com/54039581/130516847-9a97af31-2576-4cbd-94f4-934c03b64c1a.png)
+![image](https://user-images.githubusercontent.com/54039581/130516869-2df3667f-079f-45df-b615-afa4be9118a4.png)
+![image](https://user-images.githubusercontent.com/54039581/130516990-3a2c480d-d8eb-40fa-8415-bfd2de4c0c94.png)
