@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327942850545",
+    "project_id": "insta-chat-23dec",
+    "storage_bucket": "insta-chat-23dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327942850545:android:cb63cbe959bc6158f0a650",
+        "android_client_info": {
+          "package_name": "manavsingh.insta_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327942850545-5776sku9v8t0g6216hos6p843oe5uil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdNOL1YpJAYkh30j7P1jLRPBoVqHhq58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327942850545-5776sku9v8t0g6216hos6p843oe5uil1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
